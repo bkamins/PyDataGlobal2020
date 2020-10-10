@@ -1,4 +1,4 @@
-# PyData Global 2020 DataFrames Tutorial
+# PyData Global 2020 DataFrames.jl Tutorial
 
 # An introduction to DataFrames.jl for pandas users
 
