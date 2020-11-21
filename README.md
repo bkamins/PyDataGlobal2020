@@ -7,6 +7,10 @@
 This tutorial is prepared for
 [PyData Global 2020](https://global.pydata.org/talks/an-introduction-to-dataframesjl-for-pandas-users).
 
+You are viewing the version of the tutorial updated to DataFrames.jl 0.22
+release that was made after PyData Global 2020 (the tutorial is identical, only
+dependency versions have been changed).
+
 I present the fundamental design concepts behind
 [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) to help potential
 users get started with using it. I show how an exemplary
@@ -39,7 +43,7 @@ about it check out [Pluto.jl](https://github.com/fonsp/Pluto.jl).
 
 ## Preparing for running the tutorial
 
-All the examples are prepared under Julia 1.5.2. If you use any other version of
+All the examples are prepared under Julia 1.5.3. If you use any other version of
 Julia 1.x the examples should just work (if they do not please let me know via
 an Issue; you might need to adjust the Jupyter Notebook kernel).
 
