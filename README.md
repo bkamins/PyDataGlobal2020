@@ -7,9 +7,10 @@
 This tutorial is prepared for
 [PyData Global 2020](https://global.pydata.org/talks/an-introduction-to-dataframesjl-for-pandas-users).
 
-You are viewing the version of the tutorial updated to DataFrames.jl 0.22
+You are viewing the version of the tutorial updated to DataFrames.jl 1.1.1
 release that was made after PyData Global 2020 (the tutorial is identical, only
-dependency versions have been changed).
+dependency versions have been changed and I now show
+[Chain.jl](https://github.com/jkrumbiegel/Chain.jl) for chaining transformations).
 
 I present the fundamental design concepts behind
 [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) to help potential
@@ -43,7 +44,7 @@ about it check out [Pluto.jl](https://github.com/fonsp/Pluto.jl).
 
 ## Preparing for running the tutorial
 
-All the examples are prepared under Julia 1.5.3. If you use any other version of
+All the examples are prepared under Julia 1.6.1. If you use any other version of
 Julia 1.x the examples should just work (if they do not please let me know via
 an Issue; you might need to adjust the Jupyter Notebook kernel).
 
