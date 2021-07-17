@@ -7,7 +7,7 @@
 This tutorial is prepared for
 [PyData Global 2020](https://global.pydata.org/talks/an-introduction-to-dataframesjl-for-pandas-users).
 
-You are viewing the version of the tutorial updated to DataFrames.jl 1.1.1
+You are viewing the version of the tutorial updated to DataFrames.jl 1.2.0
 release that was made after PyData Global 2020 (the tutorial is identical, only
 dependency versions have been changed and I now show
 [Chain.jl](https://github.com/jkrumbiegel/Chain.jl) for chaining transformations).
