@@ -7,7 +7,7 @@
 This tutorial is prepared for
 [PyData Global 2020](https://global.pydata.org/talks/an-introduction-to-dataframesjl-for-pandas-users).
 
-You are viewing the version of the tutorial updated to DataFrames.jl 1.3.0
+You are viewing the version of the tutorial updated to DataFrames.jl 1.4.0
 release that was made after PyData Global 2020 (the tutorial is identical, only
 dependency versions have been changed and I now show
 [Chain.jl](https://github.com/jkrumbiegel/Chain.jl) for chaining transformations).
@@ -44,8 +44,8 @@ about it check out [Pluto.jl](https://github.com/fonsp/Pluto.jl).
 
 ## Preparing for running the tutorial
 
-All the examples are prepared under Julia 1.7.0. If you use any other version of
-Julia 1.x the examples should just work (if they do not please let me know via
+All the examples are prepared under Julia 1.8.2. If you use any other version of
+Julia 1.6+ the examples should just work (if they do not please let me know via
 an Issue; you might need to adjust the Jupyter Notebook kernel).
 
 Before we begin please make sure that you have Julia and git installed and that
